@@ -43,9 +43,9 @@ The main interface is responsible for listing available landmarks, while the det
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="300" alt="Landmark list screen">
-  &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/detail.png" width="300" alt="Landmark detail screen">
+  <img src="landmark-list.png" width="300" alt="Landmark List Screen">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="landmark-detail.png" width="300" alt="Landmark Detail Screen">
 </p>
 
 ## Project Structure
